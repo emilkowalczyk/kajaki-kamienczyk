@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://kajakikamienczyk.pl/$1",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.kajakikamieńczyk.pl"
+        }
+      ],
+      "permanent": true
+    }
+  ]
+}
